@@ -4,4 +4,5 @@ export interface Registration{
     year:number;
     regNumber:string;
     phone:string;
+    id?:string;
 }
