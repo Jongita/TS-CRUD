@@ -1,4 +1,4 @@
-import { Registration } from "./registraion";
+import { Registration } from "./registration";
 
 const markInput=<HTMLInputElement>document.getElementById("mark");
 const modelInput=<HTMLInputElement>document.getElementById("model");
